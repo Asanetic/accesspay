@@ -1,0 +1,48 @@
+{
+    "smartapi": {
+        "base": "/api/accesspay/smartapi"
+    },
+    "dashboard": {
+        "admin": "/api/accesspay/dashboard/admin"
+    },
+    "approvals": {
+        "base": "/api/accesspay/approvals/approvals",
+        "delete": "/api/accesspay/approvals/delete",
+        "import": "/api/accesspay/approvals/approvals/import"
+    },
+    "messages": {
+        "base": "/api/accesspay/messages/messages",
+        "delete": "/api/accesspay/messages/delete",
+        "import": "/api/accesspay/messages/messages/import"
+    },
+    "payments": {
+        "base": "/api/accesspay/payments/payments",
+        "delete": "/api/accesspay/payments/delete",
+        "import": "/api/accesspay/payments/payments/import"
+    },
+    "requests": {
+        "base": "/api/accesspay/requests/requests",
+        "delete": "/api/accesspay/requests/delete",
+        "import": "/api/accesspay/requests/requests/import"
+    },
+    "settings": {
+        "base": "/api/accesspay/settings/settings",
+        "delete": "/api/accesspay/settings/delete",
+        "import": "/api/accesspay/settings/settings/import"
+    },
+    "staff": {
+        "base": "/api/accesspay/staff/staff",
+        "delete": "/api/accesspay/staff/delete",
+        "import": "/api/accesspay/staff/staff/import"
+    },
+    "disbursements": {
+        "base": "/api/accesspay/disbursements/disbursements",
+        "delete": "/api/accesspay/disbursements/delete",
+        "import": "/api/accesspay/disbursements/disbursements/import"
+    },
+    "mosysqlrollback": {
+        "base": "/api/accesspay/mosysqlrollback/mosysqlrollback",
+        "delete": "/api/accesspay/mosysqlrollback/delete",
+        "import": "/api/accesspay/mosysqlrollback/mosysqlrollback/import"
+    }
+}
